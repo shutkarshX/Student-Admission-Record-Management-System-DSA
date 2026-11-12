@@ -1,0 +1,17 @@
+# Binaries & build files
+*.exe
+*.o
+*.obj
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Local data & logs
+students.txt
+*.csv
+.DS_Store
